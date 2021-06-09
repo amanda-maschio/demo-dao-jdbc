@@ -10,7 +10,10 @@ O Sistema tem como objetivo demonstrar um padrão de projeto DAO (Data Access Ob
 ## Back end
 - Java
 
-# Autores
+## Implantação
+- Banco de dados: MySQL
+
+# Autor
 
 Amanda Maschio - https://www.linkedin.com/in/amanda-maschio-272783186/
 
